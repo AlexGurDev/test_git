@@ -1,0 +1,29 @@
+[33mcommit d9e38b890a6e009fb751d5d94603b0d5f4d8bd36[m[33m ([m[1;36mHEAD -> [m[1;32mnew-api[m[33m)[m
+Author: Alex <AlexGurDev@gmail.com>
+Date:   Sun Jun 25 21:51:08 2023 +0300
+
+    add styles.css
+
+[33mcommit cc0af182e648929cd49a59306ff2d5d1bb797cb7[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Alex <AlexGurDev@gmail.com>
+Date:   Sun Jun 25 21:21:30 2023 +0300
+
+    add gitignore file
+
+[33mcommit 70a60c2b00860b06e2640a7e57802c30ff12f72d[m
+Author: Alex <AlexGurDev@gmail.com>
+Date:   Sun Jun 25 20:58:35 2023 +0300
+
+    add button
+
+[33mcommit f27c302a2691b2907ef447496fdb7b2b5226c9c3[m
+Author: Alex <AlexGurDev@gmail.com>
+Date:   Sun Jun 25 19:13:53 2023 +0300
+
+    add text
+
+[33mcommit a8fd4e85b1a814a502d3dead3eaae202ccce7b97[m
+Author: Alex <AlexGurDev@gmail.com>
+Date:   Sun Jun 25 18:57:32 2023 +0300
+
+    init git
